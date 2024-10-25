@@ -1,8 +1,7 @@
 # Introduction
 
-I am a Ph.D candidate in Theoretical Physics in the research group of Professor Hong Guo ([Lab](https://www.physics.mcgill.ca/~guo/)) at McGill University. In December 2023, I graduated with a Bachelor of Science majoring in Physics minoring in Computer Science from McGill University.
-
-I come from France. I moved to Montreal for my undergraduate studies. I really enjoy the city and its outskirts.
+I am a french physics researcher. I moved to Montreal for my undergraduate studies. I really enjoy the city and its outskirts. In December 2023, I graduated with a Bachelor of Science majoring in Physics minoring in Computer Science from McGill University.
+I am a Ph.D candidate in Theoretical Physics in the research group of Professor Hong Guo ([Lab](https://www.physics.mcgill.ca/~guo/)) at McGill University. 
 
 # Other Interests
 
