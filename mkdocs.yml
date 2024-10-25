@@ -1,9 +1,9 @@
 # Change to your own name
-site_name: My Research Page
+site_name: Louis Rossignol
 # Change to your own site
-site_url: https://steob92.github.io/mcgill-tutorial/ # must have the trailing slash
-site_author: Your Name (stephan.obrien@mcgill.ca)
-site_description: Research site for Your Name 
+site_url: https://louis_rsgl.github.io/louis_rossignol/ # must have the trailing slash
+site_author: Louis Rossignol (louis.rossignol@mail.mcgill.ca)
+site_description: Research site of Louis Rossignol
 copyright: > # should remain a link to the original theme
   &copy; 2023 Your Name <br>
   <a href="https://github.com/vuquangtrong/mkdocs-material-blog">Blog Theme</a> /
@@ -57,8 +57,8 @@ extra_javascript:
 nav:
   - Home: index.md
   - About Me: about/index.md
-  - Research: reasearch/index.md
-  - Projects: projects/index.md
+  - Research: research/index.md
+  - Projects: outreach/index.md
 
 # Extensions that we want to use
 markdown_extensions:
